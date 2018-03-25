@@ -1,6 +1,7 @@
 # My-Responsive-Web-Dev-Layout
 
-This is my current working progress for a responsive web development layout.
+This is a working progress of my files and structure for any responsive web development project I want to do .
+
 
 ### Main resources pulled from is as follows:
 
